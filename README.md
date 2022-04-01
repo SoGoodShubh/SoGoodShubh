@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, this is Shubhanshu👋</h1>
 <h3 align="center">❤️I love developing and learning💡</h3>
-
+<div align ="center">
+  <img src="resources/dino.gif">
+</div>
 <br>
-
-<img align="right" alt="JPG" src="resources/astronaut.jpg" width="280" height="250" />
+<img align="right" alt="JPG" src="resources/hello.gif" width="250" height="250" />
 
 - 🌱 Currently doing a course on **flutter and dart**
 
