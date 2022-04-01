@@ -42,4 +42,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sogoodshubh" /></p> 
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en" alt="sogoodshubh" /></p>
+<p>&nbsp;<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en" alt="sogoodshubh" /></p>
