@@ -37,8 +37,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sogoodshubh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sogoodshubh" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en" alt="sogoodshubh" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sogoodshubh&show_icons=true&theme=tokyonight&locale=en" alt="sogoodshubh" /></p>
